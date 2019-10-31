@@ -1,0 +1,2 @@
+-i https://pypi.org/simple
+xmlrunner==1.7.7
